@@ -11,6 +11,8 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   basketball/basketball.rst
+
 
 
 Indices and tables
