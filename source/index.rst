@@ -12,6 +12,9 @@ Contents:
    :maxdepth: 2
 
    basketball/basketball.rst
+   baseball/baseball.rst
+   football/football.rst
+   tennis/tennis.rst
 
 
 
