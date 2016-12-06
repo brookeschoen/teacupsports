@@ -1,2 +1,8 @@
 Basketball
 ==========
+
+History
+-------
+
+Basics
+-------
