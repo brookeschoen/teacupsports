@@ -11,8 +11,16 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   football/football.rst
    basketball/basketball.rst
    baseball/baseball.rst
-   football/football.rst
+   soccer/soccer.rst
+   golf/golf.rst
+   wrestling/wrestling.rst
+   swimming/swimming.rst
    tennis/tennis.rst
+   track_and_field/track_and_field.rst
+   cross_country/cross_country.rst
+   e_sports/e_sports.rst
+
 
