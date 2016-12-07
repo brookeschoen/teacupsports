@@ -26,8 +26,7 @@ Cael Sanderson
 --------------
 Cael's first year as a redshirt freshman, he won all 39 matches as well as 
 the NCAA title. He became the first freshman to be named the NCAA Wrestling 
-Team Championship's most outstanding wrestler. He went 40-0 his sophomore year,
-as well as his junior year. This raised his total record to 119-0. 
+Team Championship's most outstanding wrestler. He went 40-0 his sophomore year, as well as his junior year. This raised his total record to 119-0. 
 His senior year, he again went undefeated with a record of 40-0.
 He became the second wrestler to to win an NCAA title four times.
 He set an NCAA record with 159 straight wins; he never lost a match. 
