@@ -1,12 +1,19 @@
 Football
-========
+^^^^^^^^
+
+.. image:: football.png
+   :height: 100px
+   :width: 100px
+   :scale: 100 %
+   :alt: alternate text
+   :align: center
 
 History
-^^^^^^^
+-------
 
 Football can be traced back to the mid-19th century. It is believed to be a spinoff of English rugby football. During this times two sports spun off of old rugby football. Football as known in the US and Futbol as known in the rest of the world. 
 
-In America Walter Camp is known as the creator of football. The game of football gained its popularity through the college level. Fans loved supporting their teams in bowl games and rivalries within states. In 1932 the National Football League was created for players in college who excelled at football. Football could now be played professional. 
+In America Walter Camp is known as the creator of football. The game of football gained its popularity through the college level. Fans loved supporting their teams in bowl games and rivalries within states. In **1932** the National Football League was created for players in college who excelled at football. Football could now be played professional. 
 
 
 Basics

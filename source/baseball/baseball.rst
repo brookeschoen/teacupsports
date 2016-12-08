@@ -1,10 +1,17 @@
 Baseball
 ========
 
+.. image:: baseball.png
+   :height: 100px
+   :width: 100px
+   :scale: 100 %
+   :alt: alternate text
+   :align: center
+
 History
 -------
 
-Baseball was created in 1839 in Cooperstown, New York by Abner Doubleday. The first team to play baseball under the rules created by Doubleday was the New York Knickerbockers (which is currently a basketball team in the NBA). From there on Baseball grew to be America's past time and most popular sport over the next decade. 
+Baseball was created in **1839** in Cooperstown, New York by Abner Doubleday. The first team to play baseball under the rules created by Doubleday was the New York Knickerbockers (which is currently a basketball team in the NBA). From there on Baseball grew to be America's past time and most popular sport over the next decade. 
 
 Basics
 ------
