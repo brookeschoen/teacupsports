@@ -2,7 +2,7 @@ Football
 ========
 
 History
--------
+^^^^^^^
 
 Football can be traced back to the mid-19th century. It is believed to be a spinoff of English rugby football. During this times two sports spun off of old rugby football. Football as known in the US and Futbol as known in the rest of the world. 
 
@@ -18,3 +18,21 @@ On offense, there is a QB (calls the plays and throws the ball), RB (runs the ba
 
 On defense, there is a defensive line (get passed offensive line and tackle the QB or RB), DB (guard the WR and prevent them from catching a pass), LB (guard the RB and TE and prevent them from catching or running the ball), and SS/FS (The last line of defense against passes or runs).
 
+Today
+-----
+
++-----------------+----------+
+|Power Rankings   | Team     | 
++=================+==========+
+|       1         | Cowboys  |
++-----------------+----------+
+|       2         | Patriots |
++-----------------+----------+
+|       3         | Raiders  |
++-----------------+----------+
+|       4         | Seahawks |
++-----------------+----------+
+|       5         | Steelers |
++-----------------+----------+
+
+* Full list of week 14 power rankings can be found at `ESPN <http://www.espn.com/nfl/story/_/id/18214694/nfl-2016-week-14-power-rankings-dallas-cowboys-new-england-patriots-oakland-raiders>`_ .

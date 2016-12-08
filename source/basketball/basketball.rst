@@ -30,4 +30,23 @@ The game of basketball is played between two teams. Each team has five players o
 
 The five players on the court are typically playing a specific position. The tallest player on the team is usually the 5 or the center. The center is suppose to get lots of rebounds and defend the hoop. The shortest player on the team is usually the 1 or the point guard. The point guard is suppose to bring the ball up the court. They usually have very good dribbling skills and do a good job of setting up other players to score. The second smallest player on the team or the best shooter is usually the 2 or the shooting guard. The shooting guard is the best shooter on the team. Lots of a team scoring comes from its shooting guard. The second tallest player on the team is usually the 4 or the power forward. The power forward is not as tall as the center but is typically faster and a better scorer. What they lack in height they make up for in speed. They are good rebounders and defenders. Finally, we have the 3 or the small forward. The small forward is the hybrid of a center and point guard. They are typically taller, but can still handle the ball. They can score easily and play defense well.
 
+Today
+-----
+
++-----------------+----------+
+|Power Rankings   | Team     | 
++=================+==========+
+|       1         | Warriors |
++-----------------+----------+
+|       2         | Raptors  |
++-----------------+----------+
+|       3         | Spurs    |
++-----------------+----------+
+|       4         | Cavs     |
++-----------------+----------+
+|       5         | Clippers |
++-----------------+----------+
+
+* Full list of week seven power rankings can be found at `ESPN <http://www.espn.com/nba/story/_/id/18209694/nba-power-rankings-marc-stein-week-7-rankings>`_ .
+
 
