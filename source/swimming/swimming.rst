@@ -24,18 +24,21 @@ Below is an example of what each stroke for competitive swimming should look lik
    :scale: 100 %
    :alt: alternate text
    :align: center
+
 .. image:: breast.png
    :height: 100px
    :width: 100px
    :scale: 100 %
    :alt: alternate text
    :align: center
+
 .. image:: fly.png
    :height: 100px
    :width: 100px
    :scale: 100 %
    :alt: alternate text
    :align: center
+
 .. image:: free.png
    :height: 100px
    :width: 100px
