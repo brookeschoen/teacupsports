@@ -13,7 +13,7 @@ History
 
 **100 BC** is the first recorded instance of humans playing the game of golf. The first game of golf was played with a bent stick and a ball made of leather. Since golf was gaining popularity quickly among humans, it was decided that golf would officially become a sport in the 15th century. That did not last for long though because in 1457, the Scottish Parliament banned the sport of golf, stating that it interfered with the practice of archery, which was used as a national defense at the time. The ban on golf was officially lifted in 1500, and ever since then, the sport has been gaining popularity. In 1744, the first rules of golf were constructed by the *Honourable Company of Edinburgh Golfers*.
 
-`Source <https://www.igfgolf.org/about-golf/history/>`
+`Source <https://www.igfgolf.org/about-golf/history/>`_
 
 How to Golf
 -----------
