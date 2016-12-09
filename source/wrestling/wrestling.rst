@@ -12,13 +12,13 @@ popular event in the Pentathlon after the discus, javelin, long jump, and the
 
 Basics
 ------
-*Scoring
+**Scoring**
  1. Pin: Victory
  2. Takedown: 2 Points
  3. Escape: 1 Point
  4. Reversal:2 Points
  5. Near Fall: 2 Points/3 Points
-*Rules
+**Rules**
  1. No intentional hitting or kicking
  2. No gouging of eyes, biting, or grasping of the genitals
 

@@ -21,6 +21,6 @@ Contents:
    tennis/tennis.rst
    track_and_field/track_and_field.rst
    cross_country/cross_country.rst
-   E_Sports/e_sports.rst
+   e_sports/e_sports.rst
 
 
