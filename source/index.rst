@@ -22,5 +22,6 @@ Contents:
    track_and_field/track_and_field.rst
    cross_country/cross_country.rst
    e_sports/e_sports.rst
+   softball/softball.rst
 
 
