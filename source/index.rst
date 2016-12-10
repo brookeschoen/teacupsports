@@ -15,7 +15,7 @@ Contents:
    basketball/basketball.rst
    baseball/baseball.rst
    soccer/soccer.rst
-   Golf/golf.rst
+   golf/golf.rst
    wrestling/wrestling.rst
    swimming/swimming.rst
    tennis/tennis.rst
