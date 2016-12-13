@@ -24,7 +24,7 @@ decathlon.
 
 Usain Bolt
 ----------
-Bolt is a nine-time Olympic gold medallist. He won the 100m, 200m, and 4x100m 
-relay at three consecutive Olympic Games to acheive this. He holds the fastest 
+Bolt is a nine-time Olympic gold medalist. He won the 100m, 200m, and 4x100m 
+relay at three consecutive Olympic Games to achieve this. He holds the fastest 
 100m dash time of all-time with the time of 9.58 seconds. This happened on 
 August 16, 2009 at the Olympic Games in Berlin.

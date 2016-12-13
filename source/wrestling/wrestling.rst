@@ -1,8 +1,5 @@
 Wrestling
 =========
-
-.. image:: esports.png 
-
 History
 -------
 Wrestling dates back to the times of Sumerians over 5,000 years ago. It 

@@ -1,6 +1,5 @@
 Soccer
 ======
-.. image: : esports.*
 History
 -------
 The history of modern-day soccer was established in 1863 when the first laws 
