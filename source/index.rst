@@ -15,12 +15,13 @@ Contents:
    basketball/basketball.rst
    baseball/baseball.rst
    soccer/soccer.rst
-   Golf/golf.rst
+   golf/golf.rst
    wrestling/wrestling.rst
    swimming/swimming.rst
    tennis/tennis.rst
    track_and_field/track_and_field.rst
    cross_country/cross_country.rst
    e_sports/e_sports.rst
+   softball/softball.rst
 
 
